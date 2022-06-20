@@ -14,9 +14,11 @@
 <body>
   <h1>Prototypes</h1>
   <ul>
+    {{#each prototypes}}
     <li>
-      <a href="/hello-world/">hello-world</a>
+      <a href="/{{this}}/">{{this}}</a>
     </li>
+    {{/each}}
   </ul>
 </body>
 </html>
