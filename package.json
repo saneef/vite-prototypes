@@ -1,7 +1,7 @@
 {
   "name": "front-end-experiments",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
     "new-prototype": "plop prototype",
     "generate:index": "plop index",
