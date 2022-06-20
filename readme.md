@@ -1,4 +1,19 @@
-# Front-end experiments
+# Vite protoypes
 
-This project is meant for local development to try JS and CSS.
-If you need to host sub-folders somewhere, check [Multi-page app](https://vitejs.dev/guide/build.html#multi-page-app) config of Vite.
+This is starter project for creating protyping using HTML, JavaScript and CSS.
+
+The project uses [Vite](https://vitejs.dev/).
+
+## Usage
+
+```bash
+$ npm install # Install dependencies
+
+$ npm run dev # Start development server
+```
+
+### Create a new prototype
+
+```bash
+$ npm run new-prototype # Prompts for new directory name and generates new project.
+```
